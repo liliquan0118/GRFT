@@ -3,7 +3,7 @@
    conda env create -f environment.yml
     ```
 
-2.the fairness testing code are saved in the directory `GRFT`
+2. the fairness testing code are saved in the directory `GRFT`
 
 3. the fairness repairing code are saved in the directory `our_repair`
 

@@ -3,7 +3,7 @@
 Environment set up:
    ```bash
    conda env create -f environment.yml
-    ```
+   ```
 
 1. The code for the original training models is stored in the folder `training`.
    
